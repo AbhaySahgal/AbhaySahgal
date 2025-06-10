@@ -26,7 +26,7 @@
 
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,firebase,flutter,dart,tailwind,figma,html,css,js,java,python,redux,github" />
+<img src="https://skillicons.dev/icons?i=react,firebase,flutter,tailwind,figma,html,css,js,java,redux,github" />
 
 ---
 
