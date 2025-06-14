@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/abhaysahgal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Sahgal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://abhay-portfolio-theta-murex.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://abhaysahgal.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-abhaysahgal.website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
