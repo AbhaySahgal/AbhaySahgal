@@ -19,7 +19,7 @@
   🎓 I'm also keen on leveraging technology to enhance learning, particularly by <b>simulating live teaching environments</b> for more effective engagement.
 </p>
 <p>
-  🌐 Explore my portfolio: <a href="https://abhay-portfolio-theta-murex.vercel.app/" target="_blank" rel="noopener noreferrer"><b>abhaysahgal.website</b></a>
+  🌐 Explore my portfolio: <a href="https://abhaysahgal-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><b>abhaysahgal.website</b></a>
 </p>
 
 ---
