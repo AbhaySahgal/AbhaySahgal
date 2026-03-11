@@ -38,7 +38,7 @@
     <img src="https://i.ibb.co/vx6cn39F/Android-Compact-9.png" width="300" alt="Target App Screenshot" style="margin: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </a>
   <div>
-    <h3>🎯 Target</h3>
+    <h3>Target</h3>
     <p>Motivational GATE prep app with daily inspiration, progress tracking, and productivity features.</p>
     <code>React Native · Firebase · Figma · Google Auth</code>
   </div>
@@ -51,7 +51,7 @@
     <img src="https://i.ibb.co/PZBPydLQ/6.png" width="300" alt="Fable App Screenshot" style="margin: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </a>
   <div>
-    <h3>📚 Fable</h3>
+    <h3>Fable</h3>
     <p>All-in-one platform to read and publish books. Empowering authors and connecting readers.</p>
     <code>React Native · Firebase · Google Drive API · UI/UX Design</code>
   </div>
