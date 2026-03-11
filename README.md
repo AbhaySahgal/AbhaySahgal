@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/VccsSxkZ/Canvas-edit.png" alt="Abhay Sahgal Banner" width="1400" style="border-radius: 10px;" />
-  <h1>👋 Hey there! I'm Abhay Sahgal</h1>
-  <h3>⚛️ React Native Developer | 🎨 UI/UX Designer | 📚 eBook Innovator</h3>
+  <h1>Hey there! I'm Abhay Sahgal</h1>
+  <h3>React Native Developer | UI/UX Designer | eBook Innovator</h3>
   <p>Building impactful mobile applications with smooth user experiences. Passionate about empowering readers and writers through innovative eBook solutions.</p>
 </div>
 
