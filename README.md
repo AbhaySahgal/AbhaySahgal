@@ -7,30 +7,30 @@
 
 ---
 
-## 🚀 What Drives Me
+## What Drives Me
 
 <p>
-  🔥 I'm driven by the desire to build mobile apps that truly <b>solve real-world problems</b>. The creation of <b>Target</b>, a motivational GATE prep app, and <b>Fable</b>, an innovative self-publishing & eBook platform, are testaments to this passion.
+  I'm driven by the desire to build mobile apps that truly <b>solve real-world problems</b>. The creation of <b>Target</b>, a motivational GATE prep app, and <b>Fable</b>, an innovative self-publishing & eBook platform, are testaments to this passion.
 </p>
 <p>
-  🎨 My focus as a UI/UX Designer is on <b>minimalism</b> and ensuring <b>user clarity</b> in every interaction. I'm constantly exploring new horizons, currently diving into <b>Flutter</b> to craft powerful and beautiful multi-platform experiences.
+  My focus as a UI/UX Designer is on <b>minimalism</b> and ensuring <b>user clarity</b> in every interaction. I'm constantly exploring new horizons, currently diving into <b>Flutter</b> to craft powerful and beautiful multi-platform experiences.
 </p>
 <p>
-  🎓 I'm also keen on leveraging technology to enhance learning, particularly by <b>simulating live teaching environments</b> for more effective engagement.
+  I'm also keen on leveraging technology to enhance learning, particularly by <b>simulating live teaching environments</b> for more effective engagement.
 </p>
 <p>
-  🌐 Explore my portfolio: <a href="https://abhaysahgal-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><b>abhaysahgal.website</b></a>
+  Explore my portfolio: <a href="https://abhaysahgal-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><b>abhaysahgal.website</b></a>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,firebase,flutter,tailwind,figma,html,css,js,java,redux,github" />
 
 ---
 
-## ✨ Notable Projects
+## Notable Projects
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 My GitHub Journey
+## My GitHub Journey
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhaysahgal&show_icons=true&theme=dark&hide_border=true" alt="Abhay Sahgal GitHub Stats" />
@@ -71,7 +71,7 @@
 
 ---
 
-## 🔗 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="mailto:abhaysahgal1998@gmail.com" target="_blank">
@@ -88,7 +88,7 @@
 ---
 
 <div align="center">
-  <h3>💡 My Design Philosophy</h3>
+  <h3>My Design Philosophy</h3>
   <blockquote>
     "Design is intelligence made visible." - Abhay Sahgal
   </blockquote>
