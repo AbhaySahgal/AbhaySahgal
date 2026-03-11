@@ -35,7 +35,7 @@
 <div align="center">
 
   <a href="https://play.google.com/store/apps/details?id=com.targetsahgal" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co/SwqpTFK4/phone.png" width="300" alt="Target App Screenshot" style="margin: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src="https://i.ibb.co/vx6cn39F/Android-Compact-9.png" width="300" alt="Target App Screenshot" style="margin: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </a>
   <div>
     <h3>🎯 Target</h3>
